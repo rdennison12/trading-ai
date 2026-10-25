@@ -1,7 +1,7 @@
 [project]
 name = "trading-ai"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "This is a project that will look for patterns in specified stocks, and recomend purchasing and/or selling."
 readme = "README.md"
 authors = [
     { name = "Rick Dennison", email = "rdennison12@gmail.com" }
